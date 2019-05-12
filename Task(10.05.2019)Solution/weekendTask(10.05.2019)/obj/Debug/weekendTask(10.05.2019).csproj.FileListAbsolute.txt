@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\bin\Debug\weekendTask(10.05.2019).exe.config
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\bin\Debug\weekendTask(10.05.2019).exe
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\bin\Debug\weekendTask(10.05.2019).pdb
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask(10.05.2019).csprojAssemblyReference.cache
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask_10._05._2019_.Properties.Resources.resources
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask(10.05.2019).csproj.GenerateResource.cache
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask(10.05.2019).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask(10.05.2019).exe
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)Solution\weekendTask(10.05.2019)\obj\Debug\weekendTask(10.05.2019).pdb
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)solution\weekendTask(10.05.2019)\obj\Debug\weekendTask_10._05._2019_.LoginForm.resources
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)solution\weekendTask(10.05.2019)\obj\Debug\weekendTask_10._05._2019_.Form2.resources
+C:\Users\User\Desktop\code academy\2. C#\10.05.2019(weekendTask)\Task(10.05.2019)solution\weekendTask(10.05.2019)\obj\Debug\weekendTask_10._05._2019_.ProductForm.resources
